@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "snowpack": "^3.8.8"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "snowpack dev",
+    "build": "snowpack build"
+  },
+  "dependencies": {
+    "chart.js": "^4.2.1",
+    "lodash-es": "^4.17.21",
+    "plotly.js-dist-min": "^2.18.2",
+    "the-answer": "^1.0.0"
+  }
+}
